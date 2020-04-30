@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApplication", "ClientApplication\ClientApplication.csproj", "{1E717727-9D1B-4D18-8900-1E4FC7C5A6BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubLangEncoder", "SubLangEncoder\SubLangEncoder.csproj", "{9EA2164B-5436-4E6D-BC51-E905FF69E696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E717727-9D1B-4D18-8900-1E4FC7C5A6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E717727-9D1B-4D18-8900-1E4FC7C5A6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E717727-9D1B-4D18-8900-1E4FC7C5A6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E717727-9D1B-4D18-8900-1E4FC7C5A6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA2164B-5436-4E6D-BC51-E905FF69E696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA2164B-5436-4E6D-BC51-E905FF69E696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA2164B-5436-4E6D-BC51-E905FF69E696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA2164B-5436-4E6D-BC51-E905FF69E696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
